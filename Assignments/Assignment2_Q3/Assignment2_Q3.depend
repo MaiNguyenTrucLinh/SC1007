@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676358492 source:c:\users\trucl\onedrive\documents\ecds1\sc1007\assignment2_q3.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1676359595 source:c:\users\trucl\onedrive\documents\ecds1\sc1007\assignment2_q4.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
